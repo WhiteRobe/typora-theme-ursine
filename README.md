@@ -12,6 +12,13 @@ Code fence themes are adapted from CodeMirror's *3024 Day* and *Dracula* themes 
 
 ## Installation
 
+> 注意：我对这个主题的修改并没有修改SASS源码，而是直接修改了CSS样式。出于开源协议我保留了这个仓库。
+>
+> 因此，实际上的安装步骤为：
+>
+> 1. 打开Typora-主题-打开主题文件夹。
+> 2. 把`my-release`文件夹中的所有复制到Typora的`theme`文件夹中。
+
 Decompress the latest release from [here](https://github.com/aCluelessDanny/typora-theme-ursine/releases). In Typora's preferences windows, go to `General -> Themes` and click on `Open Theme Folder`. Drop all the decompressed files and folders in there, and enjoy!~
 
 *Note:* If you require using Cyrillic-compatible fonts, then download the Cyrillic variant found in the release instead.
