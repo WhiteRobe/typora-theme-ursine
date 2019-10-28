@@ -18,6 +18,10 @@ Code fence themes are adapted from CodeMirror's *3024 Day* and *Dracula* themes 
 >
 > 1. 打开Typora-主题-打开主题文件夹。
 > 2. 把`my-release`文件夹中的所有复制到Typora的`theme`文件夹中。
+>
+> 主要的变动为：
+> - 改变Code的颜色
+> - 增加文本显示区的宽度
 
 Decompress the latest release from [here](https://github.com/aCluelessDanny/typora-theme-ursine/releases). In Typora's preferences windows, go to `General -> Themes` and click on `Open Theme Folder`. Drop all the decompressed files and folders in there, and enjoy!~
 
